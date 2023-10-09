@@ -68,8 +68,8 @@
       
       "tooltip": [
         {"field": "Country", "type": "nominal"},
-        {"field": "Density ", "type": "quantitative", "format": ","},
-        {"field": " Land Area", "type": "quantitative", "format": ","}
+        {"field": "Density ", "type": "quantitative","title":"Density (per km^2)","format": ","},
+        {"field": " Land Area", "type": "quantitative","title":"Land Area (km^2)","format": ","}
         
       ]
     }
